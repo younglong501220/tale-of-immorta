@@ -1,0 +1,6 @@
+{
+  "name": "鬼谷八荒·逆天改命",
+  "description": "經典修仙單機RPG網頁版：先天氣運洗練、境界突破天道雷劫、逆天改命神級被動、山海經隨機歷練、萬寶閣拍賣會與殺人奪寶、正邪宗門爭霸！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
